@@ -1,6 +1,5 @@
 # Boston-house_price-linear-regression
-This is a linear regression model that trains the model to predict possible house prices based on the features of each dataset.
-The dataset used here is boston dataset which is loaded in scikit library.
+This is a linear regression model that trains the model to predict possible house prices based on the features of each dataset. The dataset used here is boston dataset which is loaded in scikit library.
 Explaination of the code:
 First we import the required libraries which will be used to train the dataset next we load our dataset from scikit library.
 Next we store all the feature in df_x variable and the price in the variable df_y.
